@@ -1,5 +1,5 @@
 def print_hi(name):
-    print('My first git-repo')
+    print(f'My first git-repo{name}')
 
 
 if __name__ == '__main__':
